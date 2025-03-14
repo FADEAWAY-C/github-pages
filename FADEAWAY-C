@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Site GitHub Pages</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 15px;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            background-color: #444;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        footer {
+            margin-top: 20px;
+            background-color: #333;
+            color: white;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bienvenue sur mon site !</h1>
+    </header>
+    <nav>
+        <a href="#accueil">Accueil</a>
+        <a href="#about">À propos</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <div class="container" id="accueil">
+        <h2>Accueil</h2>
+        <p>Ce site est hébergé gratuitement grâce à GitHub Pages.</p>
+    </div>
+    <div class="container" id="about">
+        <h2>À propos</h2>
+        <p>Un site simple, rapide et efficace pour débuter sur GitHub Pages.</p>
+    </div>
+    <div class="container" id="contact">
+        <h2>Contact</h2>
+        <p>Vous pouvez me contacter à : <strong>contact@exemple.com</strong></p>
+    </div>
+    <footer>
+        <p>&copy; 2025 - Mon Site GitHub Pages</p>
+    </footer>
+</body>
+</html>
