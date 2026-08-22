@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /mentions-legales.html
+
+Sitemap: https://fadeaway-c.github.io/github-pages/sitemap.xml

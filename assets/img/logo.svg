@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Fade Away Consulting">
+  <title>Fade Away Consulting</title>
+  <g fill="#B48A45">
+    <rect x="3"  y="4"  width="26" height="3.6" rx="1.8"/>
+    <rect x="3"  y="11" width="21" height="3.6" rx="1.8" opacity=".72"/>
+    <rect x="3"  y="18" width="15" height="3.6" rx="1.8" opacity=".46"/>
+    <rect x="3"  y="25" width="9"  height="3.6" rx="1.8" opacity=".24"/>
+  </g>
+</svg>
